@@ -1,2 +1,3 @@
-langchain
-gradio
+streamlit>=0.90.0
+requests>=2.26.0
+gradio>=2.0.9
